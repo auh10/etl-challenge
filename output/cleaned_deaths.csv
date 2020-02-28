@@ -1,0 +1,77 @@
+,Province/State,Country/Region,Lat,Long,Deaths
+0,Anhui,China,31.82571,117.2264,6
+1,Beijing,China,40.18238,116.4142,4
+2,Chongqing,China,30.05718,107.874,6
+3,Fujian,China,26.07783,117.9895,1
+4,Gansu,China,36.0611,103.8343,2
+5,Guangdong,China,23.33841,113.422,5
+6,Guangxi,China,23.82908,108.7881,2
+7,Guizhou,China,26.81536,106.8748,2
+8,Hainan,China,19.19673,109.7455,4
+9,Hebei,China,38.0428,114.5149,5
+10,Heilongjiang,China,47.862,127.7622,12
+11,Henan,China,33.882020000000004,113.614,19
+12,Hubei,China,30.97564,112.2707,2144
+13,Hunan,China,27.61041,111.7088,4
+14,Inner Mongolia,China,44.09448,113.9456,0
+15,Jiangsu,China,32.97027,119.464,0
+16,Jiangxi,China,27.61401,115.7221,1
+17,Jilin,China,43.66657,126.1917,1
+18,Liaoning,China,41.29284000000001,122.6086,1
+19,Ningxia,China,37.26923,106.1655,0
+20,Qinghai,China,35.65945,96.02564,0
+21,Shaanxi,China,35.19165,108.8701,1
+22,Shandong,China,36.34377,118.1529,4
+23,Shanghai,China,31.20327,121.4554,2
+24,Shanxi,China,37.57769,112.2922,0
+25,Sichuan,China,30.617140000000006,102.7103,3
+26,Tianjin,China,39.29362,117.333,3
+27,Tibet,China,30.1534,88.7879,0
+28,Xinjiang,China,41.11981,85.17822,1
+29,Yunnan,China,24.97411,101.4868,2
+30,Zhejiang,China,29.18251,120.0985,1
+31,,Thailand,13.7563,100.5018,0
+32,,Japan,35.6762,139.6503,1
+33,,South Korea,37.5665,126.978,1
+34,Taiwan,Taiwan,23.6978,120.9605,1
+35,"Seattle, WA",US,47.7511,-120.74,0
+36,"Chicago, IL",US,40.6331,-89.3985,0
+37,"Tempe, AZ",US,34.0489,-111.094,0
+38,Macau,China,22.1987,113.5439,0
+39,Hong Kong,China,22.3193,114.1694,2
+40,,Singapore,1.3521,103.8198,0
+41,,Vietnam,21.0278,105.8342,0
+42,,France,46.2276,2.2137,1
+43,,Nepal,28.3949,84.124,0
+44,,Malaysia,4.2105,101.9758,0
+45,"Toronto, ON",Canada,43.6532,-79.3832,0
+46,British Columbia,Canada,49.2827,-123.121,0
+47,"Orange, CA",US,33.7879,-117.8531,0
+48,"Los Angeles, CA",US,34.0522,-118.2437,0
+49,New South Wales,Australia,-33.8688,151.2093,0
+50,"Victoria, BC",Australia,-37.8136,144.9631,0
+51,Queensland,Australia,-27.4698,153.0251,0
+52,,Cambodia,12.5657,104.991,0
+53,,Sri Lanka,7.8731,80.7718,0
+54,,Germany,51.1657,10.4515,0
+55,,Finland,61.9241,25.7482,0
+56,,United Arab Emirates,23.4241,53.8478,0
+57,,Philippines,12.8797,121.774,1
+58,,India,20.5937,78.9629,0
+59,"London, ON",Canada,42.9849,-81.2453,0
+60,,Italy,41.8719,12.5674,0
+61,,UK,55.3781,-3.4360000000000004,0
+62,,Russia,61.524,105.3188,0
+63,,Sweden,60.1282,18.6435,0
+64,"Santa Clara, CA",US,37.3541,-121.9552,0
+65,,Spain,40.4637,-3.7492,0
+66,South Australia,Australia,-34.9285,138.6007,0
+67,"Boston, MA",US,42.3601,-71.0589,0
+68,"San Benito, CA",US,36.5761,-120.9876,0
+69,,Belgium,50.5039,4.4699,0
+70,"Madison, WI",US,43.0731,-89.4012,0
+71,Diamond Princess cruise ship,Others,35.4437,139.638,2
+72,"San Diego, CA",US,32.7157,-117.1611,0
+73,"San Antonio, TX",US,29.4241,-98.4936,0
+74,,Egypt,26.8206,30.8025,0
+75,,Iran,32.4279,53.688,2
